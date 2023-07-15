@@ -4,8 +4,8 @@ In this project, I have build a **EdYoda PaymentPage**
 
 <br/>
 <div style="text-align: center;">
-  
-  </div>
+    <img src="https://res.cloudinary.com/dyivs1j8u/image/upload/v1689443822/Screenshot_2023-07-15_232619_oordiq.png"/>
+</div>
 <br/>
 
 ### Design Files
